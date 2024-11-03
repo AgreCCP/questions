@@ -1,0 +1,140 @@
+@font-face {
+    font-family: 'ALS Schlange sans';
+    src: local('ALSSchlangesans-Bold'),
+        url('fonts/ALSSchlangesans-Bold.woff2') format('woff2'),
+        url('fonts/ALSSchlangesans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Schlange sans';
+    src: local('ALSSchlangesans'),
+        url('fonts/ALSSchlangesans.woff2') format('woff2'),
+        url('fonts/ALSSchlangesans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: local('GothamPro-Bold'),
+        url('fonts/GothamPro-Bold.woff2') format('woff2'),
+        url('fonts/GothamPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: local('GothamPro-Light'),
+        url('fonts/GothamPro-Light.woff2') format('woff2'),
+        url('fonts/GothamPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Schlange sans';
+    src: local('ALSSchlangesans'),
+        url('fonts/ALSSchlangesans.woff2') format('woff2'),
+        url('fonts/ALSSchlangesans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Schlange sans';
+    src: local('ALSSchlangesans-Bold'),
+        url('fonts/ALSSchlangesans-Bold.woff2') format('woff2'),
+        url('fonts/ALSSchlangesans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: local('GothamPro'),
+        url('fonts/GothamPro.woff2') format('woff2'),
+        url('fonts/GothamPro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: local('GothamPro-Bold'),
+        url('fonts/GothamPro-Bold.woff2') format('woff2'),
+        url('fonts/GothamPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: local('GothamPro'),
+        url('fonts/GothamPro.woff2') format('woff2'),
+        url('fonts/GothamPro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: local('GothamPro-Medium'),
+        url('fonts/GothamPro-Medium.woff2') format('woff2'),
+        url('fonts/GothamPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Schlange sans';
+    src: local('ALSSchlangesans-Bold'),
+        url('fonts/ALSSchlangesans-Bold.woff2') format('woff2'),
+        url('fonts/ALSSchlangesans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Schlange sans';
+    src: local('ALSSchlangesans'),
+        url('fonts/ALSSchlangesans.woff2') format('woff2'),
+        url('fonts/ALSSchlangesans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: local('GothamPro-Light'),
+        url('fonts/GothamPro-Light.woff2') format('woff2'),
+        url('fonts/GothamPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: local('GothamPro-Medium'),
+        url('fonts/GothamPro-Medium.woff2') format('woff2'),
+        url('fonts/GothamPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
